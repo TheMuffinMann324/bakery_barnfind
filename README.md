@@ -6,6 +6,10 @@ A FiveM resource for discovering abandoned cars, restoring them by hand, and dri
 - **Restore** the wheels, windows, oil and filter, bodywork, and ignition. Each step can require inventory items.
 - **Claim** the finished car through your garage and vehicle-key integrations. Finds and restoration progress are saved in MySQL.
 
+## Preview
+https://medal.tv/games/gta-v/clips/nVHHmZO22zHSBOQLL?invite=cr-MSxQOXksNjA1NTcyMTMz (Admin Panel)
+https://medal.tv/games/gta-v/clips/nVHG0YxVflNAhZam-?invite=cr-MSx2dkYsNjA1NTcyMTMz (Barn Find, 1 out of 5 minigames)
+
 ## Installation
 
 Requires FXServer with OneSync, `ox_lib`, `oxmysql`, and a configured `kq_link`. Vehicle ownership supports Qbox with `qbx_vehicles`, QBCore, and ESX.
