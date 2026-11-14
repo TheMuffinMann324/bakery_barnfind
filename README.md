@@ -7,8 +7,9 @@ A FiveM resource for discovering abandoned cars, restoring them by hand, and dri
 - **Claim** the finished car through your garage and vehicle-key integrations. Finds and restoration progress are saved in MySQL.
 
 ## Preview
-[https://medal.tv/games/gta-v/clips/nVHHmZO22zHSBOQLL?invite=cr-MSxQOXksNjA1NTcyMTMz] (Admin Panel)
-[https://medal.tv/games/gta-v/clips/nVHG0YxVflNAhZam-?invite=cr-MSx2dkYsNjA1NTcyMTMz] (Barn Find, 1 out of 5 minigames)
+
+- [Admin panel walkthrough](https://medal.tv/games/gta-v/clips/nVHHmZO22zHSBOQLL?invite=cr-MSxQOXksNjA1NTcyMTMz)
+- [Barn find and one of the five minigames](https://medal.tv/games/gta-v/clips/nVHG0YxVflNAhZam-?invite=cr-MSx2dkYsNjA1NTcyMTMz)
 
 ## Installation
 
