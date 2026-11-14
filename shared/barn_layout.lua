@@ -1,0 +1,3 @@
+BarnLayout = {
+    CarSpot = vec4(0.0, 6.4, 0.0, 180.0),
+}
